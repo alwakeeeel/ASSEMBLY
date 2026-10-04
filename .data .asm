@@ -5,5 +5,5 @@ _start:
 
 mov rax,5
 
-.data #data not code
+.data ;#data not code
 reg16:
