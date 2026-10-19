@@ -8,4 +8,7 @@ mov rbx ,5
 
 add rbx,5
 add rax,5 
+
 #value of rax now = 5+5=10.
+
+add rbx,6
