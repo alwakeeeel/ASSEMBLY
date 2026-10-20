@@ -12,3 +12,6 @@ add rax,5
 #value of rax now = 5+5=10.
 
 add rbx,6
+
+mov rcx,5
+add rcx,5
